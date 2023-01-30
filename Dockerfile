@@ -1,5 +1,5 @@
-# Extend exiting PostreSQL 10 Debian image: https://hub.docker.com/_/postgres/
-FROM postgres:14
+# Extend exiting PostreSQL 14.6 Debian image: https://hub.docker.com/_/postgres/
+FROM postgres:14.6
 
 MAINTAINER Majid_Saeed
 
